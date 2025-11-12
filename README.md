@@ -32,16 +32,18 @@ This project blends the strengths of Machine Learning, Generative AI, RAG (Chatb
 
 | **Faisal Shahzad**   | AI/ML Expert • RAG Systems • Chatbots • Scalable AI    | [faisalshahzadnadeem](https://github.com/faisalshahzadnadeem) | [LinkedIn](https://www.linkedin.com/in/faisalshahzadnadeem)     |
 
-| **Ammara Uma**       |    AI/ML Specialist • Intelligent Systems • Data Solutions    | [UmaAmmara](https://github.com/UmaAmmara)             | [LinkedIn](https://www.linkedin.com/in/uma-ammara-aaa874384/)     |
+| **Uma Ammara**       |    AI/ML Specialist • Intelligent Systems • Data Solutions    | [UmaAmmara](https://github.com/UmaAmmara)             | [LinkedIn](https://www.linkedin.com/in/uma-ammara-aaa874384/)     |
 
 
 
 🛠️ Tech Stack
+
 Category	Technologies
 Languages	Python • JavaScript • C++ • Java
 Frameworks / Libraries	React • Tailwind CSS • Gemini ADK • LangChain
 AI / ML Tools	TensorFlow • scikit-learn • Google AI Studio • Kaggle
 Version Control	Git & GitHub (Organization: PakAgents-AIGenesis)
+
 🧩 Project Goals
 
 Develop an autonomous AI agent capable of retrieving and summarizing live information.
@@ -55,21 +57,15 @@ Clone the repo
 git clone https://github.com/PakAgents-AIGenesis/pakagents-hackathon-project.git
 cd pakagents-hackathon-project
 
-
 Create a virtual environment
 
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
 
-
 Install dependencies
-
 pip install -r requirements.txt
-
-
 Run the agent demo
-
 python main.py
 
 🏆 Hackathon Context
