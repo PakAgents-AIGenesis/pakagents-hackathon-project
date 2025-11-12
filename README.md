@@ -22,16 +22,11 @@ This project blends the strengths of Machine Learning, Generative AI, RAG (Chatb
 
 | Name                 | Role / Skills                                                 | GitHub                                                | LinkedIn                                                          |
 | -------------------- | ------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------- |
-| **Raqeeba Yasin**    | ML Engineer • Frontend Developer • Team Lead • Problem Solver | [RaqeebaYasin](https://github.com/RaqeebaYasin)     | [LinkedIn](https://www.linkedin.com/in/raqeeba-yasin-93ba04362/)  |
-
-| **Muhammad Aashan**  | AI/ML Specialist • Intelligent Systems • Data Solutions       | –                                                   | [LinkedIn](https://www.linkedin.com/in/aashan-gfx-56a06a25b/)     |
-
-| **Malaika Chughtai** | Machine Learning Research • Model Optimization       | [MalaikaChughtai123](https://github.com/MalaikaChughtai123)  | [LinkedIn](https://www.linkedin.com/in/malaika-chugtai-243012379) |
-
-| **Rimsha Rani**      | ML Enthusiast • AI Innovation Learner                 | [Rimsharanii](https://github.com/Rimsharanii)                | [LinkedIn](https://www.linkedin.com/in/rimsha-rani-3b8191396)     |
-
 | **Faisal Shahzad**   | AI/ML Expert • RAG Systems • Chatbots • Scalable AI    | [faisalshahzadnadeem](https://github.com/faisalshahzadnadeem)| [LinkedIn](https://www.linkedin.com/in/faisalshahzadnadeem)     |
-
+| **Raqeeba Yasin**    | ML Engineer • Frontend Developer • Team Lead • Problem Solver | [RaqeebaYasin](https://github.com/RaqeebaYasin)     | [LinkedIn](https://www.linkedin.com/in/raqeeba-yasin-93ba04362/)  |
+| **Muhammad Aashan**  | AI/ML Specialist • Intelligent Systems • Data Solutions       | –                                                   | [LinkedIn](https://www.linkedin.com/in/aashan-gfx-56a06a25b/)     |
+| **Malaika Chughtai** | Machine Learning Research • Model Optimization       | [MalaikaChughtai123](https://github.com/MalaikaChughtai123)  | [LinkedIn](https://www.linkedin.com/in/malaika-chugtai-243012379) |
+| **Rimsha Rani**      | ML Enthusiast • AI Innovation Learner                 | [Rimsharanii](https://github.com/Rimsharanii)                | [LinkedIn](https://www.linkedin.com/in/rimsha-rani-3b8191396)     |
 | **Uma Ammara**       |    AI/ML Specialist • Intelligent Systems • Data Solutions    | [UmaAmmara](https://github.com/UmaAmmara)             | [LinkedIn](https://www.linkedin.com/in/uma-ammara-aaa874384/)     |
 
 
