@@ -77,7 +77,7 @@ Team: PakAgents (6 Members)
 💬 For collaboration, discussions, or queries, please reach us through our GitHub Discussions tab
  or via [Discord – Team PakAgents].
 
-📧 Team Lead – raqeebayasin (Email available on GitHub profile)
+📧 Team Lead – Faisal Shehzad (Email available on GitHub profile)
 
 💚 Acknowledgements
 
